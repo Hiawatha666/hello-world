@@ -1,2 +1,2 @@
 # hello-world
-start a new world
+Explore a whole new world
